@@ -1,1 +1,1 @@
-Compilation of the coursework I've done during school
+Compilation of the programming coursework I've done during school
